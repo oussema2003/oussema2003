@@ -225,7 +225,7 @@ I'm actively seeking:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="61">
   <br>
   <strong>Building the Future with AI 🤖 | Let's Code Together! 🚀</strong>
 </p>
