@@ -17,7 +17,7 @@
 ## 🎯 About Me - AI Developer
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/Y4ak9Ki2GZYaK/giphy.gif" />
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - 🤖 Specialized in **Machine Learning** and **Deep Learning** applications
 - 👁️ Experienced with **Computer Vision** and **Image Processing**
@@ -27,7 +27,7 @@
 - 💡 Exploring **Transformer Models** and **Generative AI**
 - 📊 Data-driven problem solving with cutting-edge AI techniques
 - 🚀 Converting complex AI concepts into real-world applications
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br/>
 
 ---
