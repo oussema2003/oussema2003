@@ -17,6 +17,7 @@
 ## 🎯 About Me - AI Developer
 
 <img align="right" alt="AI Coding" width="300" src="https://media.giphy.com/media/Y4ak9Ki2GZYaK/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🤖 Specialized in **Machine Learning** and **Deep Learning** applications
 - 👁️ Experienced with **Computer Vision** and **Image Processing**
@@ -137,7 +138,6 @@
 - **Generative Models**: GANs, Diffusion Models, VAE, Generative Pre-trained Models
 - **Reinforcement Learning**: Q-Learning, Policy Gradient, Multi-Agent Systems
 - **Model Optimization**: Pruning, Quantization, Knowledge Distillation, TensorRT
-- **MLOps & Deployment**: Docker, Kubernetes, Model Serving, CI/CD for ML
 
 ---
 
@@ -192,13 +192,12 @@
 
 ```
 ┌─────────────────────────────────────────┐
-│ 🚀 Advanced AI/ML Development           │
+│ 🚀 Advanced AI/ML Development          │
 │ ├─ Large Language Models (LLM)         │
 │ ├─ Computer Vision Excellence          │
 │ ├─ Production ML Systems               │
 │ ├─ Model Optimization & Scaling        │
 │ ├─ AI Research & Innovation            │
-│ └─ MLOps & AutoML                      │
 └─────────────────────────────────────────┘
 ```
 
